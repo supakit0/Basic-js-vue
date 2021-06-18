@@ -1,3 +1,3 @@
-console('Louis Thanawin')
-console('hi i love develop website')
+console.log('Louis Thanawin')
+console.log('hi i love develop website')
 require('./main')
